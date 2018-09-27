@@ -1,10 +1,10 @@
 # RefHelper
 Tool that helps transform the article name to Bibtex or formatted reference string, especially useful for writing your essays.<br>
-一个简单的工具，能够将您在写论文时记录的参考文献名自动转换为符合标准的参考文献格式或直接输出Bibtex文件
+一个简单的工具，能够将您在写论文时随意记录的参考文献名自动转换为符合标准的参考文献格式或直接输出Bibtex文件
 
 ---
 # Requirements
-Python 3
+Python 3 (Basic requirement, you need to make sure `python` in Command window can work.)
 
 # Tutorial
 After downloading this repo, you need to create a text file with multiple article names in it. For example:<br>
@@ -12,7 +12,7 @@ After downloading this repo, you need to create a text file with multiple articl
 [2]	Decentralizing Privacy Using Blockchain to Protect Personal Data_Author2,Author3<br>
 ...<br>
 If it is the first time you running this application, I suggest you running `requirements.bat` batch file in the root directory to install some basic packages.<br>
-You can now run `run.bat` batch files to run the application. you need to specify the text file you just created and whether you want a Bibtex file or only formatted reference string. After few minutes, you will get a well-formatted `.bib` file as follows:<br>
+You can now run `run.bat` batch files to run the application. You need to specify the text file you just created and whether you want a Bibtex file or only formatted reference string. After a few minutes, you will get a well-formatted `.bib` file as follows:<br>
 Christidis K, Devetsikiotis M. Blockchains and Smart Contracts for the Internet of Things[J]. IEEE Access, 2016, 4:2292-2303.<br>
 Dorri A, Kanhere S S, Jurdak R, et al. Blockchain for IoT Security and Privacy: The Case Study of a Smart Home[C]// IEEE International Conference on Pervasive Computing and Communications Workshops. IEEE, 2017.<br>
 ...<br>
