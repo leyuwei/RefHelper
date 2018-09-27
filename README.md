@@ -1,6 +1,6 @@
 # RefHelper
 Tool that helps transform the article name to Bibtex or formatted reference string, especially useful for writing your essays.<br>
-一个简单的工具，能够将您在写论文时记录的参考文献名自动转换为符合标准的参考文献格式或直接输出Bibtex文件
+一个简单的工具，能够将您在写论文时随意记录的参考文献名自动转换为符合标准的参考文献格式或直接输出Bibtex文件
 
 ---
 # Requirements
