@@ -1,0 +1,14 @@
+[12]	Mobile charger billing system using lightweight Blockchain
+[13]	Decentralizing Privacy Using Blockchain to Protect Personal Data
+[14]	MedRec Using Blockchain for Medical Data Access and Permission Management
+[15]	The Blockchain-Based Digital Content Distribution System
+[16]	国内区块链研究热点的文献计量分析_王发明
+[17]	区块链技术驱动下的物联网安全研究综述_赵阔
+[18]	能源互联网中的区块链技术_研究框架与典型应用初探_张宁
+[19]	基于区块链技术的仪器数据管理创新系统_丁未
+[20]	基于区块链技术的采样机器人数据保护方法_赵赫
+[21]	5G移动通信发展趋势与若干关键技术_尤肖虎
+[22]	Blockchain-enabled spectrum access in cognitive radio networks
+[23]	Secure Blockchains for Dynamic Spectrum Access A Decentralized Database in Moving Cognitive Radio Networks Enhances Security and User Access
+[24]	Can Blockchain Strengthen IoT
+[25]	Blockchain Platform for Industrial Internet of Things [Online]
