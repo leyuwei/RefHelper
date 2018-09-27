@@ -3,8 +3,9 @@ Tool that helps transform the article name to Bibtex or formatted reference stri
 一个简单的工具，能够将您在写论文时记录的参考文献名自动转换为符合标准的参考文献格式或直接输出Bibtex文件
 
 ---
+<br>
 # Requirements
-Python 3
+Python 3 (Basic requirement, you need to make sure `python` in Command window can work.)
 
 # Tutorial
 After downloading this repo, you need to create a text file with multiple article names in it. For example:<br>
